@@ -10,7 +10,8 @@
     "url": "git://github.com/pilwon/node-ultimate-admin.git"
   },
   "keywords": [
-    "ultimate"
+    "ultimate",
+    "admin"
   ],
   "dependencies": {},
   "devDependencies": {},
